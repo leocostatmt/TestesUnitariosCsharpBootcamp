@@ -1,5 +1,3 @@
-# DIO - Trilha .NET - Testes Unitários com C#
-www.dio.me
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
